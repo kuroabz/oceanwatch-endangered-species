@@ -1,0 +1,284 @@
+[
+    
+    {
+
+        "id": 1,
+        "speciesName": "Yangtze Finless Porpoises",
+        "locationName": "Poyang Lake, China",
+        "status": "Critically Endangered",
+        "latitude": 29.0647,
+        "longitude": 116.2882
+    },
+
+    {
+        "id": 2,
+        "speciesName": "Yangtze Finless Porpoises",
+        "locationName": "Dongting Lake, China",
+        "status": "Critically Endangered",
+        "latitude": 28.8280,
+        "longitude": 112.6945
+    },
+
+    {
+        "id": 3,
+        "speciesName": "Vaquitas",
+        "locationName": "Gulf of California, Mexico",
+        "status": "Critically Endangered",
+        "latitude": 28.1662,
+        "longitude": -112.2109
+    },
+
+    {
+        "id": 4,
+        "speciesName": "Hawksbill Turtles",
+        "locationName": "Caribbean Sea",
+        "status": "Critically Endangered",
+        "latitude": 13.2537,
+        "longitude": -60.1836
+    },
+
+    {
+        "id": 5,
+        "speciesName": "Hawksbill Turtles",
+        "locationName": "Coral Triangle",
+        "status": "Critically Endangered",
+        "latitude": 2.2336,
+        "longitude": 120.0879
+    },
+
+    {
+        "id": 6,
+        "speciesName": "Hawksbill Turtles",
+        "locationName": "Great Barrier Reef",
+        "status": "Critically Endangered",
+        "latitude": -17.9808,
+        "longitude": 146.7890
+    },
+
+    {
+        "id": 7,
+        "speciesName": "Humphead Wrasse",
+        "locationName": "Coral Triangle",
+        "status": "Endangered",
+        "latitude": -6.8406,
+        "longitude": 140.7092
+    },
+
+    {
+        "id": 8,
+        "speciesName": "Blue Whale",
+        "locationName": "Antarctic Ocean",
+        "status": "Endangered",
+        "latitude": -65.0,
+        "longitude": 0.0
+    },
+
+    {
+        "id": 9,
+        "speciesName": "Blue Whale",
+        "locationName": "Baja California, Mexico",
+        "status": "Endangered",
+        "latitude": 28.00,
+        "longitude": -115.00
+    },
+
+    {
+        "id": 10,
+        "speciesName": "Blue Whale",
+        "locationName": "California, USA",
+        "status": "Endangered",
+        "latitude": 36.5,
+        "longitude": -122.0
+    },
+
+    {
+        "id": 11,
+        "speciesName": "Fin Whale",
+        "locationName": "Gulf of St. Lawrence, Canada",
+        "status": "Endangered",
+        "latitude": 48.3,
+        "longitude": -68.5
+    },
+
+    {
+        "id": 12,
+        "speciesName": "Fin Whale",
+        "locationName": "Gulf of California, Mexico",
+        "status": "Endangered",
+        "latitude": 28.0,
+        "longitude": -112.0
+    },
+
+    {
+        "id": 13,
+        "speciesName": "Sei Whale",
+        "locationName": "Gulf of Maine",
+        "status": "Endangered",
+        "latitude": 43.8,
+        "longitude": -68.0
+    },
+
+    {
+        "id": 14,
+        "speciesName": "Sei Whale",
+        "locationName": "California, USA",
+        "status": "Endangered",
+        "latitude": 36.0,
+        "longitude": -123.0
+    },
+
+    {
+        "id": 15,
+        "speciesName": "Whale Shark",
+        "locationName": "Ningaloo Reef, Australia",
+        "status": "Endangered",
+        "latitude": -22.0717,
+        "longitude": 113.8617
+    },
+
+    {
+        "id": 16,
+        "speciesName": "Green Sea Turtle",
+        "locationName": "Tortuguero, Costa Rica",
+        "status": "Endangered",
+        "latitude": 10.5434,
+        "longitude": -83.5042
+    },
+
+    {
+        "id": 17,
+        "speciesName": "Irrawaddy Dolphin",
+        "locationName": "Mekong River",
+        "status": "Endangered",
+        "latitude": 12.4897,
+        "longitude": 106.0195
+    },
+
+    {
+        "id": 18,
+        "speciesName": "Amazon River Dolphin",
+        "locationName": "Amazon River",
+        "status": "Endangered",
+        "latitude": -3.1190,
+        "longitude": -60.0217
+    },
+
+    {
+        "id": 19,
+        "speciesName": "Hector's Dolphin",
+        "locationName": "Akaroa Harbour, New Zealand",
+        "status": "Endangered",
+        "latitude": -43.8340,
+        "longitude": 172.9519
+    },
+
+    {
+        "id": 20,
+        "speciesName": "Australian Sea Lion",
+        "locationName": "Kangaroo Island, Australia",
+        "status": "Endangered",
+        "latitude": -35.8234,
+        "longitude": 137.2144
+    },
+
+    {
+        "id": 21,
+        "speciesName": "North Atlantic Right Whale",
+        "locationName": "Bay of Fundy",
+        "status": "Critically Endangered",
+        "latitude": 45.0000,
+        "longitude": -66.5000
+    },
+
+    {
+        "id": 22,
+        "speciesName": "North Atlantic Right Whale",
+        "locationName": "Georgia/Florida Coast",
+        "status": "Critically Endangered",
+        "latitude": 31.5000,
+        "longitude": -80.5000
+    },
+
+    {
+        "id": 23,
+        "speciesName": "Bigeye Tuna",
+        "locationName": "Pacific Ocean",
+        "status": "Vulnerable",
+        "latitude": 21.3114,
+        "longitude": -157.7964
+    },
+
+    {
+        "id": 24,
+        "speciesName": "Marine Iguana",
+        "locationName": "Galapagos Islands, Ecuador",
+        "status": "Vulnerable",
+        "latitude": -0.9538,
+        "longitude": -90.9656
+    },
+
+    {
+        "id": 25,
+        "speciesName": "Great White Shark",
+        "locationName": "Gansbaai, South Africa",
+        "status": "Vulnerable",
+        "latitude": -34.5794,
+        "longitude": 19.3512
+    },
+
+    {
+        "id": 26,
+        "speciesName": "Olive Ridley Turtle",
+        "locationName": "Ostional, Costa Rica",
+        "status": "Vulnerable",
+        "latitude": 9.9946,
+        "longitude": -85.7533
+    },
+
+    {
+        "id": 27,
+        "speciesName": "Dugong",
+        "locationName": "Shark Bay, Australia",
+        "status": "Vulnerable",
+        "latitude": -25.4852,
+        "longitude": 113.5290
+    },
+
+    {
+        "id": 28,
+        "speciesName": "Beluga Whale",
+        "locationName": "St. Lawrence Estuary, Canada",
+        "status": "Endangered",
+        "latitude": 48.1458,
+        "longitude": -69.7196
+    },
+
+    {
+        "id": 29,
+        "speciesName": "Albacore Tuna",
+        "locationName": "North Pacific Ocean",
+        "status": "Near Threatened",
+        "latitude": 30.0000,
+        "longitude": 140.0000
+    },
+
+    {
+        "id": 30,
+        "speciesName": "Narwhal",
+        "locationName": "Baffin Bay, Canada/Greenland",
+        "status": "Least Concern",
+        "latitude": 73.0000,
+        "longitude": -68.0000
+    },
+
+    {
+        "id": 31,
+        "speciesName": "Green Turtle",
+        "locationName": "Raine Island, Australia",
+        "status": "Least Concern",
+        "latitude": -11.5950,
+        "longitude": 144.0230
+    }
+    
+
+]
